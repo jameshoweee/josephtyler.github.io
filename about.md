@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I'm a software engineer in the SF Bay Area, husband, and father. My passion is working on a project I (co)founded in 2010 called [howchoo](http://howchoo.com).
