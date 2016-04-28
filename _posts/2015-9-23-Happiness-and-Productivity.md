@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happiness and Productivity
+title: Happiness and productivity
 ---
 
 There's a popular video that circulated Facebook recently about a Harvard psychologist who studies happiness. In one easy sentence, the video posits that happiness leads to success, not the other way around. We often create a reality where we refuse to be happy until we've achieved some definition of success, but that way of thinking is dangerous and will ultimately never lead to happiness (or success).
