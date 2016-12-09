@@ -4,4 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a software engineer in the SF Bay Area, husband, and father. My passion is working on a project I (co)founded in 2010 called [howchoo](http://howchoo.com).
+This blog is really a personal journal. I explore economics and theology as a hobby, and I needed an outlet.
+
+Regarding the title: Let's be honest, Jesus pursues me. You could say my "part" in the redemption story was that I didn't run away at full speed. His grace compelled me. His kindness won me over. Despite my best effort, he won.
+
